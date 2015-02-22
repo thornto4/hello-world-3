@@ -2,3 +2,6 @@
 
 ## Making changes in my branch
 
+## Header2
+
+Updating documentation
